@@ -1,6 +1,6 @@
-（目黒のデザイントークン管理案お試し環境）
+（デザイントークン管理案お試し環境）
 
-# Figma, Storybook, Tailwind, Style Dictionary を用いたデザイントークンの効率的な管理方法
+# Figma, Style Dictionary, Tailwind, Storybook 検証
 
 ## 目的
 
