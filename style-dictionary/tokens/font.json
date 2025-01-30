@@ -1,0 +1,6 @@
+{
+  "sample": [
+    "2rem",
+    { "lineHeight": "1.2", "letterSpacing": "0em", "fontWeight": "700" }
+  ]
+}
